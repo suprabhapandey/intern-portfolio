@@ -1,0 +1,43 @@
+[
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },    
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    }, 
+    {
+        "name": "Colab",
+        "icon": "https://img.icons8.com/color/48/000000/google-colab.png"
+    },  
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/color/48/000000/tableau-software.png"
+    },
+    {
+        "name": "Azure",
+        "icon": "https://img.icons8.com/fluency/48/000000/azure-1.png"
+    }, 
+    {
+        "name": "MS Excel",
+        "icon": "https://img.icons8.com/fluency/48/000000/ms-excel.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }, 
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    }
+   
+]
